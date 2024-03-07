@@ -1,0 +1,1 @@
+Functional mapping of fixed point polynomial functions using look-up tables. Dynamic range compression in imaging signals. Scan conversion of multidimensional imaging signals (Polar to Cartesian coordinate and vice versa). Linear vs vector programming. Space complexity estimation and code profiling for executing complexity comparison. 
